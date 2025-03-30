@@ -1,0 +1,112 @@
+{
+  "about": {
+    "prenom": "Bastien",
+    "nom": "Damour",
+    "adresse": "Rambouillet, Yvelines, France",
+    "telephone": "06 36 12 66 76",
+    "email": "bdamour72@gmail.com",
+    "description": "Développeur PHP/Symfony passionné par l'architecture backend. Rigoureux, curieux et orienté performance, je suis spécialisé en développement d'APIs REST, refactoring et optimisation de systèmes web complexes. Je désire mettre mon expertise au service de projets ambitieux et d'équipes engagées.",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/d-bastien/",
+      "github": "https://github.com/duffman033"
+    }
+  },
+  "experiences": [
+    {
+      "poste": "Développeur Symfony",
+      "entreprise": "Kiora",
+      "date": "2022 - 2024",
+      "description": "Participation à des projets structurants autour de Symfony, Sylius, Sonata et API Platform. Optimisation de workflows internes, amélioration des performances applicatives et intégration de solutions RGPD (Axeptio, GTM). Développement d’interfaces backend métiers, refactoring de code legacy et mise en place de dashboards avancés."
+    },
+    {
+      "poste": "Développeur Symfony (alternance)",
+      "entreprise": "Digital Services",
+      "date": "2022 (février - juin)",
+      "description": "Maintenance et correction de bugs sur des projets Symfony pour des clients existants. Optimisation de requêtes SQL, refactoring de fonctionnalités existantes et amélioration continue des processus métiers via le backoffice."
+    },
+    {
+      "poste": "Développeur web & mobile (stage)",
+      "entreprise": "DIRISI CDAD-R",
+      "date": "2021 (mai - juillet)",
+      "description": "Développement d’interfaces en Angular & Ionic pour moderniser les outils internes. Consommation d’APIs REST, mise en place d’interfaces responsives et veille technologique orientée web mobile."
+    },
+    {
+      "poste": "Opérateur de production",
+      "entreprise": "EATON Aerospace",
+      "date": "2019 - 2020",
+      "description": "Amélioration continue des chaînes de production, contrôle qualité des pièces aéronautiques, optimisation des processus industriels à l’aide d’outils numériques."
+    },
+    {
+      "poste": "Employé commercial",
+      "entreprise": "Carrefour Hypermarchés",
+      "date": "2016 - 2019",
+      "description": "Gestion et suivi des stocks, approvisionnement et relation client. Utilisation d’outils internes pour améliorer la logistique et réduire les ruptures."
+    },
+    {
+      "poste": "Commercial terrain",
+      "entreprise": "Technitoit",
+      "date": "2015 - 2016",
+      "description": "Prospection de clients, étude des besoins techniques, gestion du cycle de vente et négociation de contrats."
+    }
+  ],
+  "education": [
+    {
+      "ecole": "OpenClassrooms",
+      "diplome": "Titre RNCP niveau 6",
+      "specialite": "Développeur d’applications PHP / Symfony",
+      "date": "2022 - 2024",
+      "notes": "Formation professionnalisante axée sur le développement backend, Symfony, API REST, sécurité, performance et tests automatisés."
+    },
+    {
+      "ecole": "WebForce3",
+      "diplome": "Titre RNCP",
+      "specialite": "Développeur Web et Web Mobile",
+      "date": "2021",
+      "notes": "Formation intensive en développement web fullstack (HTML/CSS, JS, PHP, Symfony, WordPress, MySQL) et gestion de projet Agile."
+    },
+    {
+      "ecole": "Lycée Fulbert",
+      "diplome": "BTS SIO (1ère année)",
+      "specialite": "Option SLAM - Développement",
+      "date": "2013 - 2014",
+      "notes": "Acquisition des bases en programmation, algorithmie, gestion de bases de données et architecture web MVC avec PHP/MySQL."
+    },
+    {
+      "ecole": "Lycée Jehan de Beauce",
+      "diplome": "Baccalauréat STI2D",
+      "specialite": "Systèmes d’Information et Numérique",
+      "date": "2010 - 2013",
+      "notes": "Approche technique du développement, réseaux et systèmes numériques. Bases de programmation, modélisation de données et logique algorithmique."
+    }
+  ],
+  "skills": {
+    "tools": [
+      "fab fa-html5",
+      "fab fa-css3-alt",
+      "fab fa-square-js",
+      "fab fa-php",
+      "fab fa-symfony",
+      "fab fa-bootstrap",
+      "fab fa-docker",
+      "fab fa-git-alt",
+      "fa-solid fa-database",
+      "fab fa-react"
+    ],
+    "workflow": [
+      "Développement backend structuré avec Symfony (Sylius, API Platform, Sonata)",
+      "Création et sécurisation d’APIs REST",
+      "Utilisation de Git (GitFlow) et GitLab CI",
+      "Tests unitaires et fonctionnels avec PHPUnit",
+      "Méthodologie Agile (Scrum, Kanban) appliquée à des projets concrets",
+      "Automatisation et déploiement avec Docker, Deployer PHP",
+      "Refactoring, Clean Code, et amélioration continue des performances applicatives"
+    ]
+  },
+  "interests": [
+    "Veille technologique (frameworks, bonnes pratiques PHP/Symfony)",
+    "Lecture de livres sur le développement personnel et la productivité",
+    "Cuisine maison : créativité, rigueur et expérimentation",
+    "Apprentissage des langues étrangères (notamment le portugais)",
+    "Danse sociale (Rock, Bachata, Kizomba, WCS) : expression, écoute et interaction"
+  ]
+}
